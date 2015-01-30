@@ -1,0 +1,300 @@
+1683 not found
+2090 inserted
+-617 inserted
+2090 deleted
+-2639 inserted
+-2639 deleted
+-617 deleted
+-1142 inserted
+-1142 deleted
+-711 inserted
+-711 deleted
+3050 not found
+4181 inserted
+4181 deleted
+4008 not found
+4422 not found
+3512 not found
+2617 not found
+-2087 not found
+2416 inserted
+6851 inserted
+3829 inserted
+Minimum key 2416 deleted
+6611 inserted
+6611 deleted
+6136 inserted
+6136 deleted
+6851 found
+Minimum key 3829 deleted
+6321 inserted
+6321 6851 
+6809 inserted
+-828 inserted
+172 not found
+-828 6321 6809 6851 
+-828 6321 6809 6851 
+-828 deleted
+6809 deleted
+6851 deleted
+6884 not found
+6321 deleted
+-1891 not found
+5437 inserted
+2425 inserted
+4196 inserted
+Minimum key 2425 deleted
+5437 found
+5437 deleted
+4196 deleted
+-2038 not found
+988 not found
+-2340 inserted
+-2340 deleted
+2718 inserted
+3766 inserted
+1722 inserted
+Minimum key 1722 deleted
+-1507 inserted
+3766 deleted
+4050 not found
+Minimum key -1507 deleted
+-157 inserted
+5582 inserted
+-157 deleted
+3344 inserted
+5582 deleted
+2718 3344 
+6950 inserted
+891 inserted
+2386 inserted
+6950 found
+6456 inserted
+-1115 inserted
+-2972 inserted
+Minimum key -2972 deleted
+-1142 inserted
+6950 found
+891 found
+4306 inserted
+944 inserted
+705 inserted
+-1115 deleted
+944 found
+Minimum key -1142 deleted
+Minimum key 705 deleted
+6456 deleted
+Minimum key 891 deleted
+-1715 inserted
+2718 already present
+4636 inserted
+-1715 944 2386 2718 3344 4306 4636 6950 
+3344 deleted
+Minimum key -1715 deleted
+4306 deleted
+944 2386 2718 4636 6950 
+2718 deleted
+6755 not found
+678 inserted
+Minimum key 678 deleted
+280 not found
+5980 inserted
+944 2386 4636 5980 6950 
+2386 deleted
+5980 deleted
+-1537 inserted
+Minimum key -1537 deleted
+6950 found
+-36 inserted
+-36 deleted
+Minimum key 944 deleted
+1679 inserted
+Minimum key 1679 deleted
+Minimum key 4636 deleted
+5288 inserted
+5288 6950 
+6950 deleted
+5288 found
+5300 inserted
+-90 inserted
+-90 deleted
+5768 inserted
+6988 inserted
+5288 5300 5768 6988 
+Minimum key 5288 deleted
+6320 inserted
+2105 inserted
+6320 deleted
+Minimum key 2105 deleted
+6988 already present
+-152 not found
+5300 deleted
+-1879 inserted
+5768 deleted
+6988 already present
+1271 inserted
+Minimum key -1879 deleted
+6988 deleted
+4721 inserted
+6073 inserted
+6073 deleted
+-457 inserted
+1398 inserted
+4721 deleted
+-457 deleted
+1271 deleted
+1398 deleted
+1258 not found
+5925 inserted
+5925 deleted
+193 inserted
+193 deleted
+5713 not found
+3241 not found
+294 inserted
+3443 inserted
+Minimum key 294 deleted
+3443 found
+Minimum key 3443 deleted
+3496 inserted
+4381 not found
+3496 
+6912 inserted
+3496 found
+3496 deleted
+5270 inserted
+Minimum key 5270 deleted
+6912 found
+6953 inserted
+6953 deleted
+1740 inserted
+Minimum key 1740 deleted
+6912 deleted
+-2780 not found
+6052 inserted
+4393 inserted
+6052 deleted
+4393 deleted
+-848 inserted
+2252 inserted
+-848 deleted
+Minimum key 2252 deleted
+-1194 not found
+423 inserted
+423 found
+Minimum key 423 deleted
+6 not found
+-2649 inserted
+-2649 found
+Minimum key -2649 deleted
+-288 inserted
+-1150 not found
+-532 inserted
+-532 deleted
+Minimum key -288 deleted
+-442 not found
+4001 not found
+5245 not found
+4959 inserted
+4058 inserted
+4959 deleted
+4058 already present
+-1394 not found
+2230 inserted
+-1516 inserted
+Minimum key -1516 deleted
+-1574 inserted
+5228 inserted
+Minimum key -1574 deleted
+5004 not found
+4058 deleted
+5674 inserted
+6908 inserted
+4414 inserted
+6908 deleted
+6724 inserted
+5228 deleted
+Minimum key 2230 deleted
+3331 inserted
+-2455 not found
+3331 deleted
+4402 inserted
+4402 already present
+5805 inserted
+5674 deleted
+Minimum key 4402 deleted
+243 inserted
+4414 already present
+5709 inserted
+1731 inserted
+-1652 inserted
+-1652 deleted
+243 1731 4414 5709 5805 6724 
+243 deleted
+4414 deleted
+1931 inserted
+5077 inserted
+Minimum key 1731 deleted
+5022 inserted
+-2503 inserted
+3832 inserted
+6459 inserted
+Minimum key -2503 deleted
+3832 deleted
+5805 already present
+4511 inserted
+4511 deleted
+1931 deleted
+Minimum key 5022 deleted
+2124 inserted
+Minimum key 2124 deleted
+6459 deleted
+Minimum key 5077 deleted
+6724 already present
+376 inserted
+376 deleted
+2817 inserted
+69 inserted
+3386 inserted
+Minimum key 69 deleted
+5506 inserted
+3386 deleted
+-1916 inserted
+1966 inserted
+5805 deleted
+5709 deleted
+-1926 inserted
+-1926 -1916 1966 2817 5506 6724 
+4792 not found
+3437 inserted
+-1926 -1916 1966 2817 3437 5506 6724 
+4380 inserted
+5506 deleted
+-1926 -1916 1966 2817 3437 4380 6724 
+975 inserted
+Minimum key -1926 deleted
+2068 inserted
+5734 not found
+1266 inserted
+2068 deleted
+1042 inserted
+-1149 inserted
+6135 inserted
+-297 not found
+1042 deleted
+4380 deleted
+-1916 -1149 975 1266 1966 2817 3437 6135 6724 
+5042 inserted
+3274 not found
+4930 inserted
+-2394 inserted
+Minimum key -2394 deleted
+1966 deleted
+-1679 inserted
+3437 deleted
+156 inserted
+975 found
+-2745 inserted
+-1459 inserted
+975 deleted
+-2745 -1916 -1679 -1459 -1149 156 1266 2817 4930 5042 6135 6724 

@@ -1,0 +1,30 @@
+56 inserted
+56 
+27 inserted
+56 deleted
+19 inserted
+39 not found
+27 already present
+27 deleted
+19 already present
+19 
+-15 inserted
+Minimum key -15 deleted
+Minimum key 19 deleted
+44 not found
+11 inserted
+-4 inserted
+-29 inserted
+-31 inserted
+-4 deleted
+-31 deleted
+Minimum key -29 deleted
+11 already present
+-18 inserted
+29 inserted
+26 inserted
+26 deleted
+29 already present
+-30 inserted
+-27 inserted
+-30 -27 -18 11 29 

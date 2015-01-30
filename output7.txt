@@ -1,0 +1,1000 @@
+-2770 not found
+-607 inserted
+2169 not found
+-607 deleted
+1755 inserted
+780 not found
+4763 inserted
+-1403 inserted
+6810 inserted
+5371 inserted
+1755 already present
+1696 inserted
+4763 already present
+5641 inserted
+6810 found
+6043 inserted
+6810 deleted
+-1403 deleted
+1696 1755 4763 5371 5641 6043 
+6043 deleted
+-1202 inserted
+1755 deleted
+-1202 1696 4763 5371 5641 
+5641 already present
+2776 inserted
+1925 inserted
+5172 inserted
+5885 inserted
+4841 inserted
+6149 inserted
+1696 deleted
+1925 deleted
+2052 inserted
+-660 inserted
+2393 inserted
+4763 deleted
+5313 inserted
+2922 inserted
+-1202 found
+Minimum key -1202 deleted
+-660 2052 2393 2776 2922 4841 5172 5313 5371 5641 5885 6149 
+2052 deleted
+-444 inserted
+5313 deleted
+4841 deleted
+5856 inserted
+4445 inserted
+5000 not found
+Minimum key -660 deleted
+3536 inserted
+Minimum key -444 deleted
+6822 inserted
+Minimum key 2393 deleted
+478 inserted
+6822 deleted
+2039 inserted
+5885 found
+6290 inserted
+6309 inserted
+3821 inserted
+5885 deleted
+Minimum key 478 deleted
+-2603 inserted
+-355 not found
+6290 already present
+-2592 not found
+Minimum key -2603 deleted
+-1079 inserted
+Minimum key -1079 deleted
+3086 not found
+Minimum key 2039 deleted
+5018 not found
+127 inserted
+2776 deleted
+-2140 inserted
+335 inserted
+5641 deleted
+1105 not found
+-818 inserted
+2922 deleted
+Minimum key -2140 deleted
+127 deleted
+3419 inserted
+-818 already present
+3821 found
+-3001 inserted
+6990 inserted
+-595 inserted
+5856 deleted
+-3001 -818 -595 335 3419 3536 3821 4445 5172 5371 6149 6290 6309 6990 
+335 deleted
+-818 already present
+-595 deleted
+952 inserted
+Minimum key -3001 deleted
+881 inserted
+6285 inserted
+391 inserted
+4445 found
+6285 already present
+6149 deleted
+Minimum key -818 deleted
+3536 already present
+6269 not found
+881 deleted
+987 inserted
+513 inserted
+4957 inserted
+952 deleted
+Minimum key 391 deleted
+3563 inserted
+Minimum key 513 deleted
+3419 already present
+1999 inserted
+987 1999 3419 3536 3563 3821 4445 4957 5172 5371 6285 6290 6309 6990 
+5831 inserted
+4957 already present
+6290 deleted
+1953 inserted
+591 inserted
+591 987 1953 1999 3419 3536 3563 3821 4445 4957 5172 5371 5831 6285 6309 6990 
+4769 inserted
+2379 inserted
+Minimum key 591 deleted
+6990 found
+-982 inserted
+5987 inserted
+-982 987 1953 1999 2379 3419 3536 3563 3821 4445 4769 4957 5172 5371 5831 5987 6285 6309 6990 
+6309 already present
+-982 987 1953 1999 2379 3419 3536 3563 3821 4445 4769 4957 5172 5371 5831 5987 6285 6309 6990 
+4957 deleted
+5172 already present
+-2180 inserted
+Minimum key -2180 deleted
+4231 inserted
+-1886 inserted
+Minimum key -1886 deleted
+-1377 inserted
+5299 inserted
+6285 found
+-969 inserted
+6285 deleted
+1663 inserted
+Minimum key -1377 deleted
+1143 inserted
+-969 deleted
+4769 deleted
+5371 deleted
+Minimum key -982 deleted
+-2439 inserted
+3826 inserted
+4445 deleted
+2379 already present
+-2439 987 1143 1663 1953 1999 2379 3419 3536 3563 3821 3826 4231 5172 5299 5831 5987 6309 6990 
+1953 found
+3821 already present
+1143 deleted
+4021 inserted
+764 inserted
+5130 inserted
+5294 inserted
+3536 deleted
+2379 found
+987 already present
+5440 inserted
+4517 inserted
+Minimum key -2439 deleted
+Minimum key 764 deleted
+3563 deleted
+3892 inserted
+3126 not found
+2824 inserted
+2390 inserted
+Minimum key 987 deleted
+3532 inserted
+5172 deleted
+2824 deleted
+6190 inserted
+1663 1953 1999 2379 2390 3419 3532 3821 3826 3892 4021 4231 4517 5130 5294 5299 5440 5831 5987 6190 6309 6990 
+1663 deleted
+6616 inserted
+6940 inserted
+Minimum key 1953 deleted
+Minimum key 1999 deleted
+6190 deleted
+-29 inserted
+5831 deleted
+5365 inserted
+1642 inserted
+5295 inserted
+741 inserted
+Minimum key -29 deleted
+6745 inserted
+Minimum key 741 deleted
+Minimum key 1642 deleted
+6033 inserted
+4298 inserted
+6745 already present
+3160 inserted
+6522 inserted
+-1760 not found
+-2330 inserted
+-2330 2379 2390 3160 3419 3532 3821 3826 3892 4021 4231 4298 4517 5130 5294 5295 5299 5365 5440 5987 6033 6309 6522 6616 6745 6940 6990 
+4410 not found
+2379 found
+-2330 2379 2390 3160 3419 3532 3821 3826 3892 4021 4231 4298 4517 5130 5294 5295 5299 5365 5440 5987 6033 6309 6522 6616 6745 6940 6990 
+-1294 inserted
+3892 deleted
+Minimum key -2330 deleted
+870 inserted
+4360 inserted
+5440 deleted
+-1294 found
+Minimum key -1294 deleted
+5561 inserted
+3826 already present
+5207 inserted
+5207 found
+-1279 inserted
+988 inserted
+6045 inserted
+Minimum key -1279 deleted
+Minimum key 870 deleted
+3532 found
+4140 inserted
+4735 inserted
+6927 inserted
+988 2379 2390 3160 3419 3532 3821 3826 4021 4140 4231 4298 4360 4517 4735 5130 5207 5294 5295 5299 5365 5561 5987 6033 6045 6309 6522 6616 6745 6927 6940 6990 
+5987 already present
+1630 inserted
+4298 deleted
+5130 deleted
+6940 found
+5229 inserted
+-1179 inserted
+3694 not found
+Minimum key -1179 deleted
+2607 inserted
+4140 deleted
+5299 deleted
+-900 inserted
+5750 inserted
+-900 988 1630 2379 2390 2607 3160 3419 3532 3821 3826 4021 4231 4360 4517 4735 5207 5229 5294 5295 5365 5561 5750 5987 6033 6045 6309 6522 6616 6745 6927 6940 6990 
+3419 deleted
+-565 inserted
+-2166 inserted
+-1491 inserted
+6033 found
+2845 inserted
+6033 deleted
+5261 inserted
+5295 found
+5561 deleted
+-2191 inserted
+Minimum key -2191 deleted
+-900 found
+4231 found
+5295 found
+Minimum key -2166 deleted
+174 inserted
+1995 inserted
+-1683 inserted
+4740 inserted
+3821 deleted
+Minimum key -1683 deleted
+661 inserted
+4021 deleted
+-1491 -900 -565 174 661 988 1630 1995 2379 2390 2607 2845 3160 3532 3826 4231 4360 4517 4735 4740 5207 5229 5261 5294 5295 5365 5750 5987 6045 6309 6522 6616 6745 6927 6940 6990 
+-2900 inserted
+-2900 -1491 -900 -565 174 661 988 1630 1995 2379 2390 2607 2845 3160 3532 3826 4231 4360 4517 4735 4740 5207 5229 5261 5294 5295 5365 5750 5987 6045 6309 6522 6616 6745 6927 6940 6990 
+-2900 -1491 -900 -565 174 661 988 1630 1995 2379 2390 2607 2845 3160 3532 3826 4231 4360 4517 4735 4740 5207 5229 5261 5294 5295 5365 5750 5987 6045 6309 6522 6616 6745 6927 6940 6990 
+Minimum key -2900 deleted
+6616 deleted
+-2070 inserted
+1383 inserted
+2607 deleted
+4735 deleted
+Minimum key -2070 deleted
+253 inserted
+1573 inserted
+1995 deleted
+5346 inserted
+1638 inserted
+3713 not found
+1789 inserted
+-1491 -900 -565 174 253 661 988 1383 1573 1630 1638 1789 2379 2390 2845 3160 3532 3826 4231 4360 4517 4740 5207 5229 5261 5294 5295 5346 5365 5750 5987 6045 6309 6522 6745 6927 6940 6990 
+6045 deleted
+5968 inserted
+Minimum key -1491 deleted
+661 already present
+253 already present
+Minimum key -900 deleted
+5261 found
+1555 inserted
+6675 inserted
+Minimum key -565 deleted
+6940 deleted
+-2717 inserted
+Minimum key -2717 deleted
+5365 deleted
+-2075 inserted
+5229 deleted
+-2632 inserted
+6745 deleted
+1383 deleted
+1630 deleted
+5968 found
+3099 inserted
+5261 found
+Minimum key -2632 deleted
+Minimum key -2075 deleted
+1555 already present
+253 deleted
+353 inserted
+932 inserted
+6290 inserted
+Minimum key 174 deleted
+1480 not found
+Minimum key 353 deleted
+-2108 inserted
+988 deleted
+Minimum key -2108 deleted
+Minimum key 661 deleted
+Minimum key 932 deleted
+4740 deleted
+1573 deleted
+3160 deleted
+5261 deleted
+-1606 inserted
+6990 found
+4054 inserted
+1900 inserted
+3794 inserted
+-2400 inserted
+4231 deleted
+-1653 inserted
+5968 found
+6675 found
+2324 inserted
+3405 inserted
+4517 deleted
+1323 inserted
+-2400 -1653 -1606 1323 1555 1638 1789 1900 2324 2379 2390 2845 3099 3405 3532 3794 3826 4054 4360 5207 5294 5295 5346 5750 5968 5987 6290 6309 6522 6675 6927 6990 
+-2084 inserted
+5346 already present
+-803 not found
+-470 inserted
+5346 deleted
+-1378 inserted
+6630 inserted
+3532 already present
+1638 found
+3826 deleted
+1323 deleted
+Minimum key -2400 deleted
+-2778 inserted
+2299 not found
+1638 deleted
+6116 not found
+4054 found
+Minimum key -2778 deleted
+6400 inserted
+-2084 -1653 -1606 -1378 -470 1555 1789 1900 2324 2379 2390 2845 3099 3405 3532 3794 4054 4360 5207 5294 5295 5750 5968 5987 6290 6309 6400 6522 6630 6675 6927 6990 
+5987 found
+Minimum key -2084 deleted
+6290 found
+5563 not found
+Minimum key -1653 deleted
+319 inserted
+319 deleted
+3532 deleted
+1538 inserted
+2379 already present
+Minimum key -1606 deleted
+-1378 -470 1538 1555 1789 1900 2324 2379 2390 2845 3099 3405 3794 4054 4360 5207 5294 5295 5750 5968 5987 6290 6309 6400 6522 6630 6675 6927 6990 
+Minimum key -1378 deleted
+Minimum key -470 deleted
+1555 deleted
+4054 deleted
+1979 inserted
+5206 not found
+1783 not found
+5750 already present
+-2163 inserted
+-566 inserted
+-2958 inserted
+2023 inserted
+-379 inserted
+-1028 inserted
+-637 inserted
+Minimum key -2958 deleted
+-2163 -1028 -637 -566 -379 1538 1789 1900 1979 2023 2324 2379 2390 2845 3099 3405 3794 4360 5207 5294 5295 5750 5968 5987 6290 6309 6400 6522 6630 6675 6927 6990 
+-352 inserted
+2375 not found
+-352 deleted
+6290 deleted
+2860 inserted
+6998 inserted
+113 inserted
+-566 deleted
+4232 inserted
+2845 deleted
+1789 deleted
+721 inserted
+1342 inserted
+6630 found
+-1579 inserted
+2545 inserted
+4360 deleted
+Minimum key -2163 deleted
+-2223 inserted
+504 inserted
+-2213 inserted
+-2759 inserted
+2484 not found
+6630 deleted
+2616 inserted
+4107 inserted
+Minimum key -2759 deleted
+Minimum key -2223 deleted
+4595 inserted
+2390 found
+6522 deleted
+-2124 inserted
+2154 inserted
+4242 inserted
+3099 deleted
+2324 deleted
+-1615 inserted
+-200 inserted
+5294 deleted
+-812 inserted
+1388 inserted
+Minimum key -2213 deleted
+191 inserted
+-1452 inserted
+191 deleted
+6998 deleted
+Minimum key -2124 deleted
+8 not found
+4632 inserted
+-1898 not found
+-1713 inserted
+4956 inserted
+5987 deleted
+4107 found
+Minimum key -1713 deleted
+-1970 inserted
+6309 found
+2860 found
+6439 inserted
+Minimum key -1970 deleted
+5207 found
+2700 inserted
+Minimum key -1615 deleted
+2154 deleted
+2390 deleted
+-1579 deleted
+721 deleted
+4242 deleted
+Minimum key -1452 deleted
+1388 deleted
+2871 inserted
+6400 deleted
+4195 inserted
+2186 inserted
+1342 found
+-2744 inserted
+Minimum key -2744 deleted
+4738 inserted
+4232 deleted
+-2855 inserted
+3355 inserted
+4680 inserted
+4995 not found
+3706 inserted
+6960 inserted
+6309 found
+4107 found
+4972 inserted
+6960 already present
+2871 deleted
+5968 found
+Minimum key -2855 deleted
+2186 deleted
+651 inserted
+5571 inserted
+-1028 -812 -637 -379 -200 113 504 651 1342 1538 1900 1979 2023 2379 2545 2616 2700 2860 3355 3405 3706 3794 4107 4195 4595 4632 4680 4738 4956 4972 5207 5295 5571 5750 5968 6309 6439 6675 6927 6960 6990 
+-1931 inserted
+-1931 found
+4956 already present
+Minimum key -1931 deleted
+1342 deleted
+5518 inserted
+4107 found
+1553 inserted
+476 inserted
+4607 not found
+6514 not found
+Minimum key -1028 deleted
+2860 deleted
+5518 deleted
+-2328 not found
+-812 -637 -379 -200 113 476 504 651 1538 1553 1900 1979 2023 2379 2545 2616 2700 3355 3405 3706 3794 4107 4195 4595 4632 4680 4738 4956 4972 5207 5295 5571 5750 5968 6309 6439 6675 6927 6960 6990 
+-1405 inserted
+6675 deleted
+4197 inserted
+Minimum key -1405 deleted
+4972 deleted
+239 not found
+2250 inserted
+3529 inserted
+3405 found
+5968 deleted
+3355 deleted
+2093 inserted
+-357 inserted
+1621 inserted
+6990 deleted
+-379 found
+2446 inserted
+3692 not found
+-2551 inserted
+6061 inserted
+4680 found
+Minimum key -2551 deleted
+2692 inserted
+-812 -637 -379 -357 -200 113 476 504 651 1538 1553 1621 1900 1979 2023 2093 2250 2379 2446 2545 2616 2692 2700 3405 3529 3706 3794 4107 4195 4197 4595 4632 4680 4738 4956 5207 5295 5571 5750 6061 6309 6439 6927 6960 
+-2779 inserted
+-1147 inserted
+4107 deleted
+2023 deleted
+3676 inserted
+6960 deleted
+1227 inserted
+-1490 inserted
+3635 inserted
+1553 deleted
+4942 inserted
+1227 deleted
+-1340 not found
+5497 inserted
+-1615 inserted
+1900 found
+Minimum key -2779 deleted
+4308 inserted
+-1615 -1490 -1147 -812 -637 -379 -357 -200 113 476 504 651 1538 1621 1900 1979 2093 2250 2379 2446 2545 2616 2692 2700 3405 3529 3635 3676 3706 3794 4195 4197 4308 4595 4632 4680 4738 4942 4956 5207 5295 5497 5571 5750 6061 6309 6439 6927 
+4195 deleted
+6423 not found
+6861 inserted
+504 deleted
+1538 already present
+1751 not found
+Minimum key -1615 deleted
+4738 deleted
+2616 deleted
+Minimum key -1490 deleted
+4296 inserted
+3706 already present
+6449 not found
+Minimum key -1147 deleted
+2093 deleted
+5219 not found
+5750 deleted
+113 found
+-659 inserted
+2504 not found
+4942 deleted
+-474 not found
+1538 deleted
+2325 not found
+6439 deleted
+-812 already present
+-812 -659 -637 -379 -357 -200 113 476 651 1621 1900 1979 2250 2379 2446 2545 2692 2700 3405 3529 3635 3676 3706 3794 4197 4296 4308 4595 4632 4680 4956 5207 5295 5497 5571 6061 6309 6861 6927 
+1919 inserted
+5273 inserted
+5497 deleted
+4615 inserted
+-255 inserted
+1458 inserted
+-255 already present
+5256 inserted
+6061 deleted
+5273 deleted
+-812 -659 -637 -379 -357 -255 -200 113 476 651 1458 1621 1900 1919 1979 2250 2379 2446 2545 2692 2700 3405 3529 3635 3676 3706 3794 4197 4296 4308 4595 4615 4632 4680 4956 5207 5256 5295 5571 6309 6861 6927 
+5869 inserted
+2700 deleted
+5297 inserted
+113 deleted
+6722 inserted
+-200 already present
+2663 inserted
+2998 inserted
+1257 inserted
+4766 inserted
+389 inserted
+2777 inserted
+-255 deleted
+6536 inserted
+2545 found
+Minimum key -812 deleted
+-200 deleted
+Minimum key -659 deleted
+-1279 not found
+2569 inserted
+4680 deleted
+3706 deleted
+2998 deleted
+-914 inserted
+5494 inserted
+1621 deleted
+4311 inserted
+4296 deleted
+6323 inserted
+172 inserted
+-1258 inserted
+3152 inserted
+6861 already present
+5304 inserted
+4595 deleted
+3635 deleted
+-33 inserted
+Minimum key -1258 deleted
+4956 already present
+Minimum key -914 deleted
+3152 deleted
+Minimum key -637 deleted
+6309 found
+3752 inserted
+4206 inserted
+Minimum key -379 deleted
+-357 deleted
+-257 inserted
+5116 inserted
+6536 found
+3878 inserted
+4308 deleted
+3878 already present
+4311 deleted
+2545 deleted
+5304 found
+-979 inserted
+4615 deleted
+2446 deleted
+-1406 inserted
+1101 inserted
+6348 inserted
+5297 deleted
+1498 inserted
+-1406 -979 -257 -33 172 389 476 651 1101 1257 1458 1498 1900 1919 1979 2250 2379 2569 2663 2692 2777 3405 3529 3676 3752 3794 3878 4197 4206 4632 4766 4956 5116 5207 5256 5295 5304 5494 5571 5869 6309 6323 6348 6536 6722 6861 6927 
+4766 already present
+4053 inserted
+3676 deleted
+2379 deleted
+-1566 inserted
+6927 deleted
+1498 deleted
+Minimum key -1566 deleted
+1438 inserted
+5675 inserted
+5494 deleted
+425 not found
+-47 inserted
+1943 inserted
+4766 deleted
+-280 inserted
+-2252 inserted
+3967 inserted
+Minimum key -2252 deleted
+4206 found
+1438 found
+3116 inserted
+4691 inserted
+6323 already present
+Minimum key -1406 deleted
+476 found
+Minimum key -979 deleted
+Minimum key -280 deleted
+Minimum key -257 deleted
+5860 inserted
+-1688 inserted
+Minimum key -1688 deleted
+6619 inserted
+1159 inserted
+4053 deleted
+6320 inserted
+2777 already present
+1391 inserted
+3826 inserted
+-1516 inserted
+-688 inserted
+5339 inserted
+Minimum key -1516 deleted
+-13 inserted
+Minimum key -688 deleted
+Minimum key -47 deleted
+3142 inserted
+Minimum key -33 deleted
+5860 deleted
+5571 deleted
+Minimum key -13 deleted
+172 389 476 651 1101 1159 1257 1391 1438 1458 1900 1919 1943 1979 2250 2569 2663 2692 2777 3116 3142 3405 3529 3752 3794 3826 3878 3967 4197 4206 4632 4691 4956 5116 5207 5256 5295 5304 5339 5675 5869 6309 6320 6323 6348 6536 6619 6722 6861 
+512 inserted
+5351 inserted
+Minimum key 172 deleted
+-871 inserted
+3967 deleted
+4633 inserted
+6348 found
+Minimum key -871 deleted
+3830 inserted
+3891 inserted
+1981 inserted
+-2403 inserted
+Minimum key -2403 deleted
+Minimum key 389 deleted
+-1161 inserted
+5869 deleted
+-1050 inserted
+Minimum key -1161 deleted
+-1948 inserted
+-1533 inserted
+-2222 inserted
+870 inserted
+4633 deleted
+5256 deleted
+Minimum key -2222 deleted
+6536 found
+2569 already present
+4698 inserted
+3142 deleted
+Minimum key -1948 deleted
+4326 inserted
+6805 inserted
+Minimum key -1533 deleted
+4691 deleted
+Minimum key -1050 deleted
+1159 deleted
+3489 inserted
+Minimum key 476 deleted
+6323 deleted
+-1820 inserted
+6030 inserted
+1438 deleted
+-989 inserted
+4326 deleted
+6351 inserted
+1261 not found
+3267 inserted
+-121 inserted
+2346 not found
+Minimum key -1820 deleted
+3183 not found
+870 deleted
+4115 inserted
+4197 already present
+2174 inserted
+3489 deleted
+3126 not found
+6962 inserted
+3668 inserted
+6177 inserted
+-989 -121 512 651 1101 1257 1391 1458 1900 1919 1943 1979 1981 2174 2250 2569 2663 2692 2777 3116 3267 3405 3529 3668 3752 3794 3826 3830 3878 3891 4115 4197 4206 4632 4698 4956 5116 5207 5295 5304 5339 5351 5675 6030 6177 6309 6320 6348 6351 6536 6619 6722 6805 6861 6962 
+2174 deleted
+3195 inserted
+56 inserted
+6926 not found
+1391 deleted
+-238 not found
+Minimum key -989 deleted
+58 inserted
+-866 inserted
+1106 inserted
+Minimum key -866 deleted
+Minimum key -121 deleted
+6536 deleted
+560 inserted
+-2192 inserted
+6599 inserted
+5449 inserted
+310 inserted
+3830 deleted
+1101 already present
+-1109 inserted
+Minimum key -2192 deleted
+-3001 inserted
+-2822 inserted
+-3001 found
+3116 already present
+Minimum key -3001 deleted
+3116 deleted
+3891 deleted
+Minimum key -2822 deleted
+2950 inserted
+2250 deleted
+-17 inserted
+6320 deleted
+1902 inserted
+3752 already present
+-1109 -17 56 58 310 512 560 651 1101 1106 1257 1458 1900 1902 1919 1943 1979 1981 2569 2663 2692 2777 2950 3195 3267 3405 3529 3668 3752 3794 3826 3878 4115 4197 4206 4632 4698 4956 5116 5207 5295 5304 5339 5351 5449 5675 6030 6177 6309 6348 6351 6599 6619 6722 6805 6861 6962 
+-2501 inserted
+6931 inserted
+4613 not found
+3794 deleted
+549 inserted
+1979 already present
+Minimum key -2501 deleted
+3236 inserted
+6993 inserted
+Minimum key -1109 deleted
+-1617 inserted
+2645 inserted
+-997 not found
+-2133 inserted
+1257 deleted
+2950 deleted
+-183 inserted
+1106 deleted
+-591 inserted
+Minimum key -2133 deleted
+100 inserted
+651 deleted
+4913 inserted
+-1074 not found
+Minimum key -1617 deleted
+-31 inserted
+116 inserted
+-2328 inserted
+2701 inserted
+5364 inserted
+-2328 -591 -183 -31 -17 56 58 100 116 310 512 549 560 1101 1458 1900 1902 1919 1943 1979 1981 2569 2645 2663 2692 2701 2777 3195 3236 3267 3405 3529 3668 3752 3826 3878 4115 4197 4206 4632 4698 4913 4956 5116 5207 5295 5304 5339 5351 5364 5449 5675 6030 6177 6309 6348 6351 6599 6619 6722 6805 6861 6931 6962 6993 
+Minimum key -2328 deleted
+5304 deleted
+5351 deleted
+3485 inserted
+1138 inserted
+2151 inserted
+5295 deleted
+Minimum key -591 deleted
+Minimum key -183 deleted
+-2747 inserted
+926 not found
+-2410 inserted
+435 inserted
+3826 deleted
+6619 found
+Minimum key -2747 deleted
+Minimum key -2410 deleted
+6962 found
+Minimum key -31 deleted
+6351 found
+6924 inserted
+4816 inserted
+-2066 inserted
+-193 inserted
+-96 inserted
+Minimum key -2066 deleted
+6861 deleted
+Minimum key -193 deleted
+-96 -17 56 58 100 116 310 435 512 549 560 1101 1138 1458 1900 1902 1919 1943 1979 1981 2151 2569 2645 2663 2692 2701 2777 3195 3236 3267 3405 3485 3529 3668 3752 3878 4115 4197 4206 4632 4698 4816 4913 4956 5116 5207 5339 5364 5449 5675 6030 6177 6309 6348 6351 6599 6619 6722 6805 6924 6931 6962 6993 
+327 inserted
+-1413 not found
+4819 inserted
+4567 inserted
+1004 inserted
+-96 -17 56 58 100 116 310 327 435 512 549 560 1004 1101 1138 1458 1900 1902 1919 1943 1979 1981 2151 2569 2645 2663 2692 2701 2777 3195 3236 3267 3405 3485 3529 3668 3752 3878 4115 4197 4206 4567 4632 4698 4816 4819 4913 4956 5116 5207 5339 5364 5449 5675 6030 6177 6309 6348 6351 6599 6619 6722 6805 6924 6931 6962 6993 
+1919 deleted
+-1908 inserted
+-803 inserted
+4308 inserted
+-416 inserted
+6931 found
+6909 not found
+4487 inserted
+4904 inserted
+6722 already present
+6805 found
+4848 inserted
+3236 deleted
+-828 inserted
+4652 inserted
+-293 inserted
+Minimum key -1908 deleted
+4846 inserted
+512 deleted
+-1848 inserted
+Minimum key -1848 deleted
+Minimum key -828 deleted
+6348 deleted
+Minimum key -803 deleted
+-2510 inserted
+Minimum key -2510 deleted
+-406 inserted
+5449 deleted
+-2504 not found
+3216 inserted
+2052 inserted
+Minimum key -416 deleted
+Minimum key -406 deleted
+-2097 not found
+435 deleted
+4698 deleted
+4632 deleted
+-1329 not found
+Minimum key -293 deleted
+5764 not found
+3195 deleted
+4013 inserted
+6805 deleted
+Minimum key -96 deleted
+5225 inserted
+-2059 inserted
+4846 deleted
+4206 already present
+1004 deleted
+Minimum key -2059 deleted
+4552 inserted
+2099 inserted
+5634 inserted
+3878 already present
+5675 deleted
+4816 deleted
+6940 inserted
+Minimum key -17 deleted
+Minimum key 56 deleted
+4956 deleted
+-2733 inserted
+252 inserted
+1271 inserted
+5171 inserted
+6619 deleted
+Minimum key -2733 deleted
+2099 already present
+3553 inserted
+3982 inserted
+11 inserted
+4123 inserted
+-2665 inserted
+1138 already present
+4368 inserted
+4287 inserted
+-393 inserted
+1902 deleted
+Minimum key -2665 deleted
+5320 not found
+Minimum key -393 deleted
+-1300 inserted
+5716 inserted
+4330 inserted
+3286 inserted
+2151 deleted
+-1300 11 58 100 116 252 310 327 549 560 1101 1138 1271 1458 1900 1943 1979 1981 2052 2099 2569 2645 2663 2692 2701 2777 3216 3267 3286 3405 3485 3529 3553 3668 3752 3878 3982 4013 4115 4123 4197 4206 4287 4308 4330 4368 4487 4552 4567 4652 4819 4848 4904 4913 5116 5171 5207 5225 5339 5364 5634 5716 6030 6177 6309 6351 6599 6722 6924 6931 6940 6962 6993 
+-1613 inserted
+1458 found
+3878 found
+3405 found
+1138 deleted
+-1853 inserted
+-1853 -1613 -1300 11 58 100 116 252 310 327 549 560 1101 1271 1458 1900 1943 1979 1981 2052 2099 2569 2645 2663 2692 2701 2777 3216 3267 3286 3405 3485 3529 3553 3668 3752 3878 3982 4013 4115 4123 4197 4206 4287 4308 4330 4368 4487 4552 4567 4652 4819 4848 4904 4913 5116 5171 5207 5225 5339 5364 5634 5716 6030 6177 6309 6351 6599 6722 6924 6931 6940 6962 6993 
+-1613 found
+-832 not found
+-1300 deleted
+2701 deleted
+1931 inserted
+6309 deleted
+6924 deleted
+2777 deleted
+-186 inserted
+4308 already present
+1052 inserted
+450 inserted
+4992 inserted
+5762 inserted
+4197 deleted
+-67 inserted
+3878 found
+-776 inserted
+-100 not found
+-2171 inserted
+4308 deleted
+Minimum key -2171 deleted
+4013 found
+1931 deleted
+6177 deleted
+1621 inserted
+5171 already present
+5339 deleted
+-17 inserted
+-1853 -1613 -776 -186 -67 -17 11 58 100 116 252 310 327 450 549 560 1052 1101 1271 1458 1621 1900 1943 1979 1981 2052 2099 2569 2645 2663 2692 3216 3267 3286 3405 3485 3529 3553 3668 3752 3878 3982 4013 4115 4123 4206 4287 4330 4368 4487 4552 4567 4652 4819 4848 4904 4913 4992 5116 5171 5207 5225 5364 5634 5716 5762 6030 6351 6599 6722 6931 6940 6962 6993 
+-67 deleted
+252 deleted
+3296 inserted
+Minimum key -1853 deleted
+Minimum key -1613 deleted
+4652 deleted
+327 deleted
+13 inserted
+2040 inserted
+6931 deleted
+-776 -186 -17 11 13 58 100 116 310 450 549 560 1052 1101 1271 1458 1621 1900 1943 1979 1981 2040 2052 2099 2569 2645 2663 2692 3216 3267 3286 3296 3405 3485 3529 3553 3668 3752 3878 3982 4013 4115 4123 4206 4287 4330 4368 4487 4552 4567 4819 4848 4904 4913 4992 5116 5171 5207 5225 5364 5634 5716 5762 6030 6351 6599 6722 6940 6962 6993 

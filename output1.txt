@@ -1,0 +1,10 @@
+1 inserted
+2 inserted
+1 already present
+3 inserted
+1 2 3 
+Minimum key 1 deleted
+2 3 
+2 deleted
+3 
+2 not found
